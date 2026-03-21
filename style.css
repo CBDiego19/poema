@@ -78,12 +78,12 @@ section.imagem > p {
 
 section#img01 {
     background-image: url('./imagens/img1.jpeg');
-    background-position: center;
+    background-position: center ;
 }
 
 section#img02 {
     background-image: url('./imagens/img2.jpeg');
-    background-position: center;
+    background-position: center center;
 }
 
 footer {
